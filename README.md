@@ -10,8 +10,8 @@ Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
 # 登壇内容資料
-[![Image from Gyazo](https://i.gyazo.com/b40ea50547d2bf78cc3f525e4277deaa.png)](https://gyazo.com/b40ea50547d2bf78cc3f525e4277deaa)
 
+[![Image from Gyazo](https://i.gyazo.com/b40ea50547d2bf78cc3f525e4277deaa.png)](https://gyazo.com/b40ea50547d2bf78cc3f525e4277deaa)
 [![Image from Gyazo](https://i.gyazo.com/15f153ecfa89c902ba607414dd14b90b.png)](https://gyazo.com/15f153ecfa89c902ba607414dd14b90b)
 
 # 参考資料
